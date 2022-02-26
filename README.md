@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beibarysali
-- 🌱 I’m currently learning Java, PostgreSQL
+- 🌱 I’m currently learning Java
 - 📫 How to reach me alibeibaris@gmail.com
 
 <!---
